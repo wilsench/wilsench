@@ -6,7 +6,9 @@ export default {
   theme: {
     extend: {
         colors: {
-            'main-purple' : '#ff3fa4',
+            'main-blue' : '#007BFF',
+            'dark-blue' : '#15193c',
+            'secondary-dark-blue' : '#1E2139'
         }
     },
   },
