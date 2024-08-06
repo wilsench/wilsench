@@ -26,7 +26,7 @@
             <div class="flex gap-4">
                 <a href="https://instagram.com/chwlsn_"><img src="{{ URL::asset('images/instagram.png') }}" class="w-full h-5" alt=""></a>
                 <a href="https://github.com/wilsench"><img src="{{ URL::asset('images/git_icon.png') }}" class="w-full h-5 bg-white rounded-full" alt=""></a>
-                <a href="https://github.com"><img src="{{ URL::asset('images/linkedin_icon.png') }}" class="w-full h-5" alt=""></a>
+                <a href="https://www.linkedin.com/in/chiawilsen"><img src="{{ URL::asset('images/linkedin_icon.png') }}" class="w-full h-5" alt=""></a>
             </div>
         </nav>
     </section>
@@ -202,7 +202,7 @@
             <div class="flex mt-5 gap-5">
                 <a href="https://instagram.com/chwlsn_" target="_blank"><img src="{{ URL::asset('images/instagram.png') }}" class="h-5 grayscale" alt=""></a>
                 <a href="https://github.com/wilsench" target="_blank"><img src="{{ URL::asset('images/git_icon.png') }}" class="h-5 grayscale" alt=""></a>
-                <a href="https://github.com" target="_blank"><img src="{{ URL::asset('images/linkedin_icon.png') }}" class="h-5 grayscale" alt=""></a>
+                <a href="https://www.linkedin.com/in/chiawilsen" target="_blank"><img src="{{ URL::asset('images/linkedin_icon.png') }}" class="h-5 grayscale" alt=""></a>
             </div>
             <p class="mb-5 mt-3 text-dark-blue font-semibold">More about me.</p>
             <hr class="w-1/2">
