@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Chia+Wilsen;Fullstack+Developer+(Laravel%2FPHP);Building+Modern+and+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=AFFF00&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Chia+Wilsen;Fullstack+Developer+(Laravel%2FPHP);Building+Modern+and+Scalable+Web+Applications" alt="Typing SVG" />
 </div>
 
 ---
